@@ -1,0 +1,29 @@
+<svg width="150" height="150" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="152" width="152" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke="null" id="svg_1" fill="#FF8B00" d="m74.500002,12.999999c-37.831533,0 -68.500001,21.401773 -68.500001,47.802195c0,23.556836 24.41811,43.132289 56.554778,47.076289c0.701055,7.444617 -2.046973,15.109 -8.384293,21.121515c15.543613,0 28.607045,-8.972328 32.373475,-21.132617c32.087701,-3.972094 56.456041,-23.532367 56.456041,-47.065187c0,-26.400422 -30.668467,-47.802195 -68.500001,-47.802195z"/>
+  <g id="svg_6"/>
+  <g id="svg_7"/>
+  <g id="svg_8"/>
+  <g id="svg_9"/>
+  <g id="svg_10"/>
+  <g id="svg_11"/>
+  <g id="svg_12"/>
+  <g id="svg_13"/>
+  <g id="svg_14"/>
+  <g id="svg_15"/>
+  <g id="svg_16"/>
+  <g id="svg_17"/>
+  <g id="svg_18"/>
+  <g id="svg_19"/>
+  <g id="svg_20"/>
+  <ellipse ry="5" rx="6" id="svg_22" cy="58.5" cx="84.5" stroke-opacity="null" stroke-width="null" stroke="null" fill="#ffffff"/>
+  <ellipse ry="5.5" rx="7" id="svg_24" cy="58" cx="105.5" stroke-opacity="null" stroke-width="null" stroke="null" fill="#ffffff"/>
+  <ellipse ry="5" rx="6.5" id="svg_25" cy="59.5" cx="132" stroke-opacity="null" stroke-width="null" stroke="null" fill="#ffffff"/>
+ </g>
+</svg>
